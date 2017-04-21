@@ -1,0 +1,6 @@
+hash: 826a97be550f513cfb5de5e27e50b3e2faf28449175c0b3c095bb4fe2757e3ba
+updated: 2017-04-21T08:44:44.250649348+03:00
+imports:
+- name: github.com/aburdun/f
+  version: 2d7e7592a8e0eba9072b3244fcb412c97d6101b3
+testImports: []
